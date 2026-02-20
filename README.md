@@ -1,8 +1,8 @@
-# NarrativeFlow
+# Inkspire
 
-**NarrativeFlow** is an interactive AI story co-writer application designed to help authors craft compelling narratives. It features an adaptive AI that collaborates with you, offering real-time suggestions, scene visualizations, and stylistic coherence.
+**Inkspire** is an interactive AI story co-writer application designed to help authors craft compelling narratives. It features an adaptive AI that collaborates with you, offering real-time suggestions, scene visualizations, and stylistic coherence.
 
-![NarrativeFlow Dashboard Placeholder](https://via.placeholder.com/800x400?text=NarrativeFlow+Preview)
+![Inkspire Dashboard Placeholder](https://via.placeholder.com/800x400?text=NarrativeFlow+Preview)
 
 ## 🚀 Features
 
